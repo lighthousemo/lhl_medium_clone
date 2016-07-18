@@ -1,10 +1,11 @@
-import React, {Component} from 'react';
+import React from 'react';
 
-class App extends Component {
-  render() {
+const App = React.createClass({
+  render: () => {
     return (
-      <h1>Hello React :)</h1>
+      <h1>Hello Lighthouse :)</h1>
     );
   }
-}
+});
+
 export default App;
