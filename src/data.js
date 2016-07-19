@@ -1,5 +1,4 @@
 const data = {
-  highlightedParagraph: 1, // UI state
   article: {
     id: 1,
     title: "Location-based Pokemon",
